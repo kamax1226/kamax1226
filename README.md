@@ -7,6 +7,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20a%20Senior%20Full Stack%20Engineer;7%2B%20years%20of%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrei's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kamax1226&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Andrei's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamax1226&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
+</p>
+
 #### :sparkles: I am a JS/TS/PHP/Python/Ruby Developer.
 ![I am a JS/TS/PHP/Python/Ruby Developer.](https://github.com/kamax1226/kamax1226/blob/master/background.jpg)
 
@@ -41,13 +50,4 @@ I'm open to new opportunities.
 - 💬 Ask me about anything you want
 - 📫 How to reach me: karlikboroda@gmail.com
 - ⚡ Fun fact: work on Europe and US time zones
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrei's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kamax1226&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Andrei's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamax1226&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
-</p>
 
