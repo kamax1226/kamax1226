@@ -8,7 +8,7 @@
 </p>
 
 #### :sparkles: I am a JS/TS/PHP/Python/Ruby Developer.
-![I am a JS/TS/PHP/Python/Ruby Developer.](https://github.com/kamax1226/kamax1226/background.jpg)
+![I am a JS/TS/PHP/Python/Ruby Developer.](https://github.com/kamax1226/kamax1226/blob/master/background.jpg)
 
 I'm open to new opportunities.
 
